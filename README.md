@@ -1,4 +1,4 @@
-//2019.11.22 심심풀이 파보나치
+//2019.11.22  파보나치
 #include <iostream>
 
 using namespace std;
